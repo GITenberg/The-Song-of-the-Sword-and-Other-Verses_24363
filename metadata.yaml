@@ -1,0 +1,28 @@
+_repo: The-Song-of-the-Sword-and-Other-Verses_24363
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Henley, William Ernest
+    alias: Henley, W. E. (William Ernest)
+    birthdate: 1849
+    deathdate: 1903
+    gutenberg_agent_id: '369'
+    url: http://www.gutenberg.org/2009/agents/369
+    wikipedia: http://en.wikipedia.org/wiki/William_Ernest_Henley
+description: The song of the sword -- London voluntaries -- Rhymes and rhythms.
+gutenberg_issued: '2008-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+title: The Song of the Sword, and Other Verses
+url: http://www.gutenberg.org/ebooks/24363
